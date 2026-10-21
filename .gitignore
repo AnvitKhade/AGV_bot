@@ -1,0 +1,13 @@
+# colcon build artifacts
+build/
+install/
+log/
+
+# editor caches
+.vscode/browse.vc.db*
+.vscode/ipch/
+**/.vscode/browse.vc.db*
+
+# python
+__pycache__/
+*.pyc
